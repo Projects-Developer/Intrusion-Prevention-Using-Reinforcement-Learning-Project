@@ -1,7 +1,7 @@
 # Intrusion-Prevention-Using-Reinforcement-Learning-Project
 The Intrusion Prevention using Reinforcement Learning Project uses AI to detect and prevent cyber attacks in real time. It learns from network behavior and adapts to new threats, improving security by automatically taking preventive actions against intrusions.
 
-![Uploading image.png…]()
+<img width="742" height="406" alt="image" src="https://github.com/user-attachments/assets/4d113900-117a-4906-84bd-fac669de7bc5" />
 
 ### Project include: 
 
